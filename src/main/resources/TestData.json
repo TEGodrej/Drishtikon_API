@@ -1,0 +1,49 @@
+{
+    "Customer": "7001223251",
+    "DeliveryNo": "7001223256",
+    "Soldto": "0002018556",
+    "orderid": "123",
+    "SoldtoCity": "JHALARAPATAN",
+    "SoldtoName": "DHAKAR TRADERS-JHALARAPATAN",
+    "Shipto": "0002018556",
+    "ShiptoName": "DHAKAR TRADERS-JHALARAPATAN",
+    "ShiptoCity": "JHALARAPATAN",
+    "DeliveryType": "ZASO",
+    "CrtDate": "2025-01-16T00:00:00",
+    "SalesOrg": "6102",
+    "DelDate": "2025-01-16T00:00:00",
+    "Plant": "A201",
+    "PlantName": "CFA-Jaipur",
+    "DistrChl": "20",
+    "Division": "21",
+    "Podstatus": "A",
+    "Remarks": "qwertyuiop",
+    "Podstatusdate": "2024-11-21T00:00:00",
+    "Podsatustime": "PT18H31M41S",
+    "Appshiptodetails": "DHAKAR TRADERS-JHALARAPATAN",
+    "Truckno": "1",
+    "Lrno": "1",
+    "Receiptdate": "2025-01-16T00:00:00",
+    "hdrtodlvnav": [
+        {
+            "Receiptquantity": "1",
+            "DeliveryNo": "7001223256",
+            "DeliveryItem": "900001",
+            "MaterialNo": "000000000029320261",
+            "MaterialDesc": "BELEAF - 500 ML (20 x 500 ML)",
+            "Uom": "",
+            "Qty": "1",
+            "QtyMt": "1"
+        },
+        {
+            "Receiptquantity": "1",
+            "DeliveryNo": "7001223256",
+            "DeliveryItem": "900002",
+            "MaterialNo": "000000000029320261",
+            "MaterialDesc": "BELEAF - 500 ML (20 x 500 ML)",
+            "Uom": "",
+            "Qty": "1",
+            "QtyMt": "1"
+        }
+    ]
+}
