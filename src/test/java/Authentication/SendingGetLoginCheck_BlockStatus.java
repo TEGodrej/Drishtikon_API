@@ -11,7 +11,11 @@ import GenericUtility.FileUtility;
 import io.restassured.http.Header;
 import io.restassured.http.Headers;
 import io.restassured.response.Response;
-
+/**
+ *@author DivyaPrakashAmar
+ *This class is being used to send Get Request to LoginCheck_BlockStatus
+ *It is extending SendingRequestToGenerateToken class to fetch authentication
+ */
 public class SendingGetLoginCheck_BlockStatus extends SendingRequestToGenerateToken{
 	
 	String baseUrl="https://gavl-mobility-application-i2pf2gjb-quality-com-btpcc-dev.cfapps.ap10.hana.ondemand.com/GAVL_NQT_BITEAM/sap/opu/odata/SAP/";
